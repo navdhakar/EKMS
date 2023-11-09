@@ -1,0 +1,14 @@
+node_modules/
+data/users.db
+data/sessions.db
+data/kb.db
+data/votes.db
+Rubbish/
+public/images/
+public/uploads/
+data/export.zip
+.vscode
+jsconfig.json
+.idea/
+.DS_Store
+ecosystem.config.js
